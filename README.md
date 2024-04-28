@@ -32,4 +32,4 @@ User: admin
 
 Password: 1234
 
-Passo 9: Após configurar o HeidiSQL para consultar a tabela cep que todos os ceps passados na requisição do postman estarão salvos no banco.
+Passo 9: Após configurar o HeidiSQL para consultar a tabela cep, todos os ceps passados na requisição do postman estarão salvos no banco.
