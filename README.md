@@ -18,7 +18,7 @@ Passo 4: Volte no IntelliJ e vá ate o arquivo "NeurotechApplication" e execute 
 
 Passo 5: Vá ate o Postman e configure uma requisição GET com a seguinte url http://localhost:8080/api/cep/v1/:cep
 
-Passo 6: Na aba Params preencha o campo Value do parametro do Path Variables e click em Send para executar a requisição.
+Passo 6: Na aba Params preencha o campo Value do parametro cep que está no Path Variables e click em Send para executar a requisição.
 
 Passo 7: Baixe o HeidiSQL ou qualquer outra ferramenta para realizar consultar no banco.
 
