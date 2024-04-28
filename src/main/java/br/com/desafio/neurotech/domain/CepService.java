@@ -24,10 +24,10 @@ public class CepService {
 
     public CepDTO getCep(String cep) {
 
-        CepEntity cepResponse = requestGetCep(cep);
-        cepRepository.save(cepResponse);
+        CepEntity cepEntity = requestGetCep(cep);
+        cepRepository.save(cepEntity);
 
-        return cepMapper.toCepDTO(cepResponse);
+        return cepMapper.toCepDTO(cepEntity);
 
     }
 
