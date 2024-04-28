@@ -5,8 +5,11 @@ Gateway - Analista de Desenvolvimento de Sistemas I
 Segue passo a passo para executar o projeto.
 
 Passo 1: Clonar o projeto para o Intellij.
+
 Passo 2: Via terminal acessar a pasta Docker que se encontra no repositorio do projeto.
+
 Passo 3: Ainda no terminal executar o seguinte comando "docker-compose up -d".
+
 Este comando é para subir o container do MySql 8 com todas as configurações necessarias para o projeto.
 Observação: Precisa que o Docker esteja devidamente instalado.
 
