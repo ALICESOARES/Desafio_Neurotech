@@ -20,7 +20,7 @@ Passo 5: Vá ate o Postman e configure uma requisição GET com a seguinte url h
 
 Passo 6: Na aba Params preencha o campo Value do parametro cep que está no Path Variables e click em Send para executar a requisição.
 
-Passo 7: Baixe o HeidiSQL ou qualquer outra ferramenta para realizar consultar no banco.
+Passo 7: Baixe o HeidiSQL ou qualquer outra ferramenta para realizar consulta no banco.
 
 Passo 8: Configure o HeidiSQL da seguinte forma:
 
