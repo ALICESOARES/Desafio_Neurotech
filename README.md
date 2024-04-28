@@ -1,4 +1,4 @@
-# Desafio Neurotch
+# Desafio Neurotech
 Gateway - Analista de Desenvolvimento de Sistemas I
 
 
